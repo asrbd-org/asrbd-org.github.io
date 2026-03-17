@@ -20,7 +20,7 @@ image: /assets/images/1-day.png
 keywords: cybersecurity awareness, digital safety, phishing prevention, malware protection, online security, identity theft prevention, cyber threats
 ---
 
-![Cybersecurity Awareness - ASRBD](/assets/images/1-day.png "Cybersecurity Awareness: Why Digital Safety Matters More Than Ever")
+![Cybersecurity Awareness - ASRBD](/assets/img/1-day.png "Cybersecurity Awareness: Why Digital Safety Matters More Than Ever")
 
 # Cybersecurity Awareness: Why Digital Safety Matters More Than Ever
 
