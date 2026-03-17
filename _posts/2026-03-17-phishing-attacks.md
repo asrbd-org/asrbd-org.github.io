@@ -1,6 +1,6 @@
 ---
 title: "Day 3: Phishing Attacks – How Hackers Trick You Online"
-date: 2026-03-18
+date: 2026-03-17
 categories: [awareness]
 tags:
   - cybersecurity

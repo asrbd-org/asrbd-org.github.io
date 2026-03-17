@@ -1,6 +1,6 @@
 ---
 title: "Top Free Cybersecurity Resources in 2026: Learn Without Spending Money"
-date: 2026-03-17
+date: 2026-03-13
 categories: [resources]
 tags:
   - cybersecurity

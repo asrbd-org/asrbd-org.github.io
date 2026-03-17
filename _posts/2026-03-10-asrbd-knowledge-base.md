@@ -1,6 +1,6 @@
 ---
 title: "Introducing ASRBD Knowledge Base: A Central Hub for Cybersecurity Learning"
-date: 2026-03-17
+date: 2026-03-10
 categories: [announcement]
 tags:
   - asrbd

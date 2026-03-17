@@ -1,6 +1,6 @@
 ---
 title: "Cybersecurity Learning Roadmap 2026: From Beginner to Expert"
-date: 2026-03-17
+date: 2026-03-12
 categories: [guides]
 tags:
   - cybersecurity
