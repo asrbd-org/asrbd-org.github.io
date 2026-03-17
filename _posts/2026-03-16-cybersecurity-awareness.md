@@ -1,5 +1,5 @@
 ---
-title: "Day 1: Cybersecurity Awareness - Why Digital Safety Matters More Than Ever in 2026"
+title: "Cybersecurity Awareness in 2026: Why Digital Safety Matters More Than Ever"
 date: 2026-03-16
 categories: [awareness]
 tags:
@@ -11,13 +11,15 @@ tags:
   - identity-theft
   - social-engineering
   - ransomware
-  - account-security
-  - malware-protection
-  - cyber-threats
-author: ASRBD
-description: "Complete guide to cybersecurity awareness: Learn why digital safety matters in 2026 and how to protect yourself from phishing, scams, malware, identity theft, and cyber attacks. Practical cybersecurity tips and best practices for personal protection."
-image: /assets/img/1-day.png
+author:
+  name: ASRBD
+description: "Complete guide to cybersecurity awareness in 2026. Learn how to protect yourself from phishing, scams, malware, identity theft, and cyber threats."
+image:
+  path: /assets/img/1-day.png
+  alt: Cybersecurity awareness and digital safety illustration
 keywords: cybersecurity awareness, digital safety, phishing prevention, malware protection, online security, identity theft prevention, cyber threats
+toc: true
+pin: true
 ---
 
 ![Cybersecurity Awareness - ASRBD](/assets/img/1-day.png "Cybersecurity Awareness: Why Digital Safety Matters More Than Ever")
