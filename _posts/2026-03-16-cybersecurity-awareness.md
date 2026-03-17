@@ -16,7 +16,7 @@ tags:
   - cyber-threats
 author: ASRBD
 description: "Complete guide to cybersecurity awareness: Learn why digital safety matters in 2026 and how to protect yourself from phishing, scams, malware, identity theft, and cyber attacks. Practical cybersecurity tips and best practices for personal protection."
-image: /assets/images/1-day.png
+image: /assets/img/1-day.png
 keywords: cybersecurity awareness, digital safety, phishing prevention, malware protection, online security, identity theft prevention, cyber threats
 ---
 
