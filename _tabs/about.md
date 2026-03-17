@@ -57,6 +57,6 @@ ASRBD is built by passionate cybersecurity researchers, developers, and ethical 
 
 We welcome students, professionals, and cybersecurity enthusiasts to join our mission.
 
-👉 [Explore our blog](/posts/)  
+👉 [Explore our blog](/)  
 👉 [Visit our GitHub](https://github.com/asrbd-org)  
 👉 [Follow us on Facebook](https://www.facebook.com/asrbd.org)

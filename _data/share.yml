@@ -25,7 +25,3 @@ platforms:
   - type: WhatsApp
     icon: "fa-brands fa-whatsapp"
     link: "https://api.whatsapp.com/send?text=TITLE%20URL"
-
-  - type: Email
-    icon: "fas fa-envelope"
-    link: "mailto:?subject=TITLE&body=Check%20this%20out:%20URL"
