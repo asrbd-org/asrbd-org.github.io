@@ -55,6 +55,8 @@ theme_mode:
 # CDN (optional)
 cdn:
 
+favicon: /assets/img/favicons/favicon.ico
+
 # Comments (Giscus)
 comments:
   provider: giscus
