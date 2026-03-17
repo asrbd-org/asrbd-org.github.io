@@ -15,8 +15,8 @@ url: "https://asrbd-org.github.io"
 baseurl: ""
 
 # Organization Branding
-logo: /assets/img/asrbd-logo.png
-avatar: /assets/img/asrbd-logo.png
+logo: /assets/img/logo.png
+avatar: /assets/img/logo.png
 social_preview_image: /assets/img/asrbd-preview.png
 
 # GitHub
