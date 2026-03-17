@@ -14,6 +14,10 @@ description: ASRBD (Advanced Security Researchers Bangladesh) is a non-profit or
 url: "https://asrbd-org.github.io"
 baseurl: ""
 
+# Plugins
+plugins:
+  - jekyll-sitemap
+
 # Organization Branding
 logo: /assets/img/logo.png
 avatar: /assets/img/logo.png
@@ -23,9 +27,6 @@ social_preview_image: /assets/img/asrbd-preview.png
 github:
   username: asrbd-org
 
-# Social Links
-twitter:
-  username: asrbd_org
 
 social:
   name: ASRBD - Advanced Security Researchers Bangladesh
