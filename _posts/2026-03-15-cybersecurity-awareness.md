@@ -1,6 +1,6 @@
 ---
 title: "Cybersecurity Awareness in 2026: Why Digital Safety Matters More Than Ever"
-date: 2026-03-16
+date: 2026-03-15
 categories: [awareness]
 tags:
   - cybersecurity

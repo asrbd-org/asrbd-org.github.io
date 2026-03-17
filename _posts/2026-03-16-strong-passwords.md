@@ -1,6 +1,6 @@
 ---
 title: "Day 2 - Why Strong Passwords Are Your First Line of Cyber Defense"
-date: 2026-03-17
+date: 2026-03-16
 categories: [awareness]
 tags:
   - cybersecurity
