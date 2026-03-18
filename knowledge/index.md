@@ -10,4 +10,4 @@ order: 5
 Welcome to the ASRBD Knowledge Hub.
 
 ## 🔗 Sections
-- [🧭 Roadmap](/knowledge-base/roadmap/)
+- [🧭 Roadmap](/knowledge/roadmap/)
