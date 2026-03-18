@@ -10,6 +10,8 @@ tags:
   - tools
   - students
 image: /assets/img/free-cybersecurity-resources.png
+toc: true
+pin: true
 ---
 
 ## 🆓 Top Free Cybersecurity Resources

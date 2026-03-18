@@ -1,5 +1,5 @@
 ---
-title: "Cybersecurity Awareness in 2026: Why Digital Safety Matters More Than Ever"
+title: "Day 1: Cybersecurity Awareness in 2026: Why Digital Safety Matters More Than Ever"
 date: 2026-03-15
 categories: [awareness]
 tags:
@@ -19,10 +19,8 @@ image:
   alt: Cybersecurity awareness and digital safety illustration
 keywords: cybersecurity awareness, digital safety, phishing prevention, malware protection, online security, identity theft prevention, cyber threats
 toc: true
-pin: true
 ---
 
-![Cybersecurity Awareness - ASRBD](/assets/img/1-day.png "Cybersecurity Awareness: Why Digital Safety Matters More Than Ever")
 
 # Cybersecurity Awareness: Why Digital Safety Matters More Than Ever
 

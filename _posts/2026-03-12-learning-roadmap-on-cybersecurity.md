@@ -11,6 +11,8 @@ tags:
   - network-security
   - career
 image: /assets/img/cybersecurity-roadmap.png
+toc: true
+pin: true
 ---
 
 ## 🛡️ Cybersecurity Learning Roadmap
