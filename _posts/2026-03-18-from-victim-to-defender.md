@@ -20,7 +20,7 @@ pin: true
 
 > ⚠️ **This is a summarized version of our full article.**  
 👉 Read the complete guide on Medium:  
-🔗 https://asrbd.medium.com/from-victim-to-defender-how-cyber-attacks-really-work-step-by-step-guide-df1b8ecec2b4  
+🔗 [https://asrbd.medium.com/from-victim-to-defender-how-cyber-attacks-really-work-step-by-step-guide](https://asrbd.medium.com/from-victim-to-defender-how-cyber-attacks-really-work-step-by-step-guide-df1b8ecec2b4)
 
 ---
 
@@ -146,7 +146,7 @@ Instead of being a victim:
 # 🚀 Continue Learning
 
 👉 Read the full in-depth article here:  
-🔗 https://asrbd.medium.com/from-victim-to-defender-how-cyber-attacks-really-work-step-by-step-guide-df1b8ecec2b4  
+🔗 [From Victim to Defender: How Cyber Attacks Really Work (Step-by-Step Guide)](https://asrbd.medium.com/from-victim-to-defender-how-cyber-attacks-really-work-step-by-step-guide-df1b8ecec2b4)
 
 ---
 

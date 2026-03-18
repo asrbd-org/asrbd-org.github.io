@@ -19,7 +19,6 @@ image:
   alt: Cybersecurity awareness and digital safety illustration
 keywords: cybersecurity awareness, digital safety, phishing prevention, malware protection, online security, identity theft prevention, cyber threats
 toc: true
-pin: true
 ---
 
 # 🔐 Why Strong Passwords Are Your First Line of Cyber Defense
