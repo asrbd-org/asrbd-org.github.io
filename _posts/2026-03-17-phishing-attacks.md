@@ -16,8 +16,6 @@ tags:
 image: /assets/img/day-3-16x9.png
 ---
 
-![Phishing Awareness](/assets/img/day-3-16x9.png)
-
 ## 🚨 If it feels urgent, it’s probably a scam.
 
 Phishing attacks are one of the most common and dangerous cyber threats today. Attackers pretend to be trusted organizations—like banks, social media platforms, or even your workplace—to trick you into revealing sensitive information.

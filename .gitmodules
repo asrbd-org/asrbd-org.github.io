@@ -1,0 +1,6 @@
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/asrbd-org/asrbd-knowledge
+[submodule "knowledge-base"]
+	path = knowledge-base
+	url = https://github.com/asrbd-org/asrbd-knowledge
