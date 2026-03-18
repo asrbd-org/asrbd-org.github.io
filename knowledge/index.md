@@ -12,6 +12,6 @@ Welcome to the ASRBD Knowledge Hub.
 ## 🔗 Sections
 - [🧭 Roadmap](/knowledge/roadmap/)
 <!-- - [📦 Resources](/knowledge-base/resources/)
-- [🌐 Domains](/knowledge-base/domains/)
-- [🛠 Guides](/knowledge-base/guides/)
-- [⚙️ Tools](/knowledge-base/tools/) -->
+- [🌐 Domains](/knowledge/domains/)
+- [🛠 Guides](/knowledge/guides/)
+- [⚙️ Tools](/knowledge/tools/) -->
