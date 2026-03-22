@@ -39,12 +39,9 @@ social:
 webmaster_verifications:
   google: m7ZZZoEVVjclyFPYkjeq75E15tr5nNNlrb88C3_ozaw
 
-
 # Analytics (Google Analytics 4)
-	
 google_analytics:
   id: G-45Z9XSPQHK  # Replace with your GA4 ID
-
 
 
 # Page Views
