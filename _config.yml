@@ -15,8 +15,7 @@ url: "https://asrbd-org.github.io"
 baseurl: ""
 
 # Plugins
-plugins:
-  - jekyll-sitemap
+# plugins:
 
 # Organization Branding
 logo: /assets/img/logo.png
@@ -40,14 +39,17 @@ social:
 webmaster_verifications:
   google: m7ZZZoEVVjclyFPYkjeq75E15tr5nNNlrb88C3_ozaw
 
+
 # Analytics (Google Analytics 4)
 analytics:
   google:
-    id: G-XXXXXXXXXX  # Replace with your GA4 ID
+    id: G-45Z9XSPQHK  # Replace with your GA4 ID
+
+
 
 # Page Views
-pageviews:
-  provider: goatcounter
+# pageviews:
+#   provider: goatcounter
 
 # Theme Mode (auto = system preference)
 theme_mode:
@@ -62,9 +64,9 @@ comments:
   provider: giscus
   giscus:
     repo: asrbd-org/asrbd-org.github.io
-    repo_id:  # Add from https://giscus.app
+    repo_id: R_kgDORoZImA # Add from https://giscus.app
     category: General
-    category_id:  # Add from https://giscus.app
+    category_id: DIC_kwDORoZImM4C4kyc # Add from https://giscus.app
     mapping: pathname
     input_position: bottom
     lang: en

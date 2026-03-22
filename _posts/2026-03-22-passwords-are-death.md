@@ -153,7 +153,7 @@ You don’t need to remember everything.
 Even if your password is stolen…
 
 👉 Attackers still can’t access your account.
-👉 Here is an awesome article on 2FA [https://asrbd-org.github.io/posts/day-4-2fa/#-about-asrbd](https://asrbd-org.github.io/posts/day-4-2fa/#-about-asrbd)
+👉 Here is an awesome article on 2FA [https://asrbd-org.github.io/posts/day-4-2fa/](https://asrbd-org.github.io/posts/day-4-2fa/)
 
 **Tip:** Use authenticator apps instead of SMS.
 
