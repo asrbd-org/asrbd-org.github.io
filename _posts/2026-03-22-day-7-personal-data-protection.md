@@ -11,7 +11,7 @@ tags:
   - online-privacy
   - identity-theft
   - security-awareness
-image: \assets\img\30-day-post\7-day-16x9.png
+image: /assets/img/30-day-post/7-day-16x9.png
 ---
 
 ## 🔐 Personal Data Protection – Protect Your Digital Identity
