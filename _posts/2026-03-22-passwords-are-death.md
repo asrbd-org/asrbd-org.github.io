@@ -3,8 +3,8 @@ title: "Passwords Are Dead: Yours Might Already Be Compromised"
 date: 2026-03-22
 categories: [Cybersecurity, Awareness]
 tags: [cybersecurity, passwords, data breach, credential stuffing, phishing, infosec, ASRBD]
-iamge: /assets/img/article-img/day-4.png
 description: "Think your password is safe? It might already be leaked. Learn how hackers exploit passwords and how to protect yourself with modern cybersecurity practices."
+iamge: /assets/img/article-img/day-4.png
 ---
 
 # Passwords Are Dead: Yours Might Already Be Compromised
