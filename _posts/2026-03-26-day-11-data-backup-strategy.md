@@ -6,7 +6,7 @@ tags: [Data Backup, Digital Safety, Ransomware, Cybersecurity, ASRBD]
 image: /assets/img/30-day-post/11-day-16x9.png
 ---
 
-## 💾 Day 11: Data Backup Strategies
+## 💾 Data Backup Strategies
 
 **“No backup = No mercy. One attack can erase everything.”**
 
