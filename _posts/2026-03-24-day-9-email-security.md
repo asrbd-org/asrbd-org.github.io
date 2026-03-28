@@ -3,12 +3,12 @@ title: "Day 9: Email Security – Protect Your Digital Gateway"
 date: 2026-03-24
 categories: [awareness]
 tags:
+  - cybersecurity
+  - awareness
   - email-security
   - phishing
-  - cybersecurity
   - digital-safety
   - online-security
-  - awareness
   - account-protection
 image: /assets/img/30-day-post/9-day-16x9.png
 ---

@@ -1,8 +1,15 @@
 ---
 title: "Phishing: Why It Still Tricks Us In 2026"
 date: 2026-03-23
-categories: [Cybersecurity, Awareness]
-tags: [phishing, cybersecurity, social engineering, scams, infosec, ASRBD]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - phishing
+  - social-engineering
+  - scams
+  - infosec
+  - asrbd
 image: /assets/img/article-img/day-5.png
 description: "Phishing attacks are still one of the most successful hacking methods in 2026. Learn how they work, why they succeed, and how to protect yourself."
 ---

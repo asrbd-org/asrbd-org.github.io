@@ -1,8 +1,16 @@
 ---
 title: "Day 13 - Recognize Scams (Phone/SMS)"
 date: 2026-03-28
-categories: [Cybersecurity Awareness, Social Engineering]
-tags: [scam alert, sms scam, phone scam, phishing, social engineering, cybersecurity, asrbd]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - scam-alert
+  - sms-scam
+  - phone-scam
+  - phishing
+  - social-engineering
+  - asrbd
 image: /assets/img/30-day-post/13-day-16x9.png
 ---
 

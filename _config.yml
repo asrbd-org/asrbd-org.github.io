@@ -15,7 +15,10 @@ url: "https://asrbd-org.github.io"
 baseurl: ""
 
 # Plugins
-# plugins:
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # Organization Branding
 logo: /assets/img/logo.png

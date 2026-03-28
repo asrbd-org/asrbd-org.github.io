@@ -4,8 +4,9 @@ date: 2026-03-10
 categories: [announcement]
 tags:
   - asrbd
-  - knowledge-base
   - cybersecurity
+  - awareness
+  - knowledge-base
   - learning
   - digital-safety
   - education

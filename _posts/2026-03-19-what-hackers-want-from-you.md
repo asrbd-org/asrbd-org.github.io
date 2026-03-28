@@ -1,9 +1,10 @@
 ---
 title: "What Hackers Actually Want From You (It’s Not What You Think)"
 date: 2026-03-19
-categories: [awareness, cybersecurity]
+categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - hacking
   - ethical-hacking
   - digital-safety

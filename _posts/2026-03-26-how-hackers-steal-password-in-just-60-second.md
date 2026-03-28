@@ -4,12 +4,13 @@ date: 2026-03-26
 categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - password-security
   - phishing
   - keylogger
   - cyber-attack
   - infosec
-  - ASRBD
+  - asrbd
 image: /assets/img/article-img/day-8.png
 ---
 

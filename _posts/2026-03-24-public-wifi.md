@@ -1,8 +1,15 @@
 ---
 title: "Public Wi-Fi: Your Data’s Open Door"
 date: 2026-03-24
-categories: [Cybersecurity, Awareness]
-tags: [public wifi, cybersecurity, man in the middle, hacking, infosec, ASRBD]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - public-wifi
+  - man-in-the-middle
+  - hacking
+  - infosec
+  - asrbd
 image: /assets/img/article-img/day-6.png
 description: "Public Wi-Fi can expose your personal data to hackers. Learn how attacks work and how to stay safe when using open networks."
 ---

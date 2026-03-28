@@ -5,6 +5,7 @@ categories: [awareness]
 tags:
   - cybersecurity
   - awareness
+  - password-security
   - digital-safety
   - phishing
   - malware

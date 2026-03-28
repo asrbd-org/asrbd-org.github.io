@@ -1,9 +1,10 @@
 ---
 title: "From Victim to Defender: How Cyber Attacks Really Work (Step-by-Step Guide)"
 date: 2026-03-18
-categories: [awareness, cybersecurity]
+categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - hacking
   - ethical-hacking
   - digital-safety

@@ -4,6 +4,7 @@ date: 2026-03-13
 categories: [resources]
 tags:
   - cybersecurity
+  - awareness
   - free-resources
   - learning
   - ethical-hacking

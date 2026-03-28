@@ -2,7 +2,7 @@
 title: "Day 12 - Security Software & Updates"
 date: 2026-03-27
 layout: post
-categories: [Cybersecurity Awareness, Internet Safety]
+categories: [awareness]
 image: /assets/img/30-day-post/12-day-16x9.png
 ---
 

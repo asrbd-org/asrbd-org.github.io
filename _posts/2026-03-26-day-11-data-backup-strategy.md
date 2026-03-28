@@ -1,8 +1,14 @@
 ---
 title: "Day 11 - Data Backup Strategies"
 date: 2026-03-26
-categories: [Cybersecurity Awareness]
-tags: [Data Backup, Digital Safety, Ransomware, Cybersecurity, ASRBD]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - data-backup
+  - digital-safety
+  - ransomware
+  - asrbd
 image: /assets/img/30-day-post/11-day-16x9.png
 ---
 

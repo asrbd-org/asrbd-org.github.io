@@ -4,6 +4,7 @@ date: 2026-03-12
 categories: [guides]
 tags:
   - cybersecurity
+  - awareness
   - roadmap
   - learning
   - ethical-hacking

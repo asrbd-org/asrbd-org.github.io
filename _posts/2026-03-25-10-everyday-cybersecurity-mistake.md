@@ -4,12 +4,12 @@ date: 2026-03-25
 categories: [awareness]
 tags:
   - cybersecurity
-  - cyber-awareness
-  - online-safety
+  - awareness
+  - digital-safety
   - digital-security
   - infosec
   - hacking-awareness
-  - ASRBD
+  - asrbd
 image: /assets/img/article-img/day-7.png
 ---
 

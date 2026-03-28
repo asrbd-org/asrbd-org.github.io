@@ -1,8 +1,15 @@
 ---
 title: "Day 10 - Secure Wi-Fi & VPN"
 date: 2026-03-25
-categories: [Cybersecurity Awareness, Internet Safety]
-tags: [WiFi Security, VPN, Privacy, Cyber Awareness, ASRBD]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - wifi-security
+  - vpn
+  - privacy
+  - digital-safety
+  - asrbd
 image: /assets/img/30-day-post/10-day-16x9.png
 ---
 

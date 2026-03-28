@@ -3,13 +3,12 @@ title: "Day 8: Social Media Privacy – Protect What You Share"
 date: 2026-03-23
 categories: [awareness]
 tags:
+  - cybersecurity
+  - awareness
   - social-media
   - privacy
-  - cybersecurity
   - digital-safety
-  - online-privacy
   - data-protection
-  - awareness
 image: /assets/img/30-day-post/8-day-16x9.png
 ---
 

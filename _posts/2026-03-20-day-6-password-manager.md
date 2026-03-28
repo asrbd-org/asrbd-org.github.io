@@ -1,15 +1,15 @@
 ---
 title: "Day 6: Password Managers – The Smart Way to Stay Secure"
 date: 2026-03-21
-categories: [security]
+categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - password-manager
   - password-security
   - digital-safety
   - authentication
   - privacy
-  - cyber-awareness
   - infosec
 image: /assets/img/6-day.png
 ---

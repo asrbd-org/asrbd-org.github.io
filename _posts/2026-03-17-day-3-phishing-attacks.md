@@ -4,12 +4,12 @@ date: 2026-03-17
 categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - phishing
   - social-engineering
   - digital-safety
   - online-security
   - privacy
-  - cyber-awareness
   - hacking-methods
   - internet-safety
   - asrbd

@@ -1,8 +1,15 @@
 ---
 title: "Your Social Media Is a Goldmine for Hackers (Here’s How They Use It Against You)"
 date: 2026-03-20
-categories: [Cybersecurity, Awareness]
-tags: [cybersecurity, social media security, hacking, phishing, privacy, infosec, ASRBD]
+categories: [awareness]
+tags:
+  - cybersecurity
+  - awareness
+  - social-media-security
+  - phishing
+  - privacy
+  - infosec
+  - asrbd
 image: /assets/img/day-3.png
 description: "Discover how hackers use your social media data to target you. Learn real tactics and how to protect your identity, privacy, and accounts from cyber attacks."
 ---

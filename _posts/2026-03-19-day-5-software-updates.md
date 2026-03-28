@@ -1,15 +1,15 @@
 ---
 title: "Day 5: Software Updates – The Most Ignored Security Shield"
 date: 2026-03-20
-categories: [security]
+categories: [awareness]
 tags:
   - cybersecurity
+  - awareness
   - software-update
   - patch-management
   - digital-safety
   - system-security
   - vulnerabilities
-  - cyber-awareness
   - infosec
 image: /assets/img/5-day.jpeg
 ---

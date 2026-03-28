@@ -3,14 +3,13 @@ title: "Day 7: Personal Data Protection – Protect Your Digital Identity"
 date: 2026-03-22
 categories: [awareness]
 tags:
+  - cybersecurity
+  - awareness
   - personal-data
   - data-protection
   - privacy
-  - cybersecurity
   - digital-safety
-  - online-privacy
   - identity-theft
-  - security-awareness
 image: /assets/img/30-day-post/7-day-16x9.png
 ---
 
