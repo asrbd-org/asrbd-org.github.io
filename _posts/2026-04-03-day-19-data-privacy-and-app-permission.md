@@ -1,6 +1,6 @@
 ---
 title: "Day 19 - Data Privacy & App Permissions"
-date: 2026-04-03
+date: 2026-04-03 21:00:00
 categories: [awareness]
 tags:
   - cybersecurity
