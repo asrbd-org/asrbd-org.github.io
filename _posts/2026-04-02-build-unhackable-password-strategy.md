@@ -1,7 +1,9 @@
 ---
 title: "Build an Unhackable Password Strategy"
 date: 2026-04-02
-categories: [awareness]
+categories: 
+    - awareness
+    - defense
 tags:
   - cybersecurity
   - password-security
