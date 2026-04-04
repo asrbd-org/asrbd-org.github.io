@@ -1,7 +1,9 @@
 ---
 title: "Email Spoofing & BEC: The Attack You Can’t See"
 date: 2026-03-31
-categories: [awareness]
+categories: 
+    - awareness
+    - tactics
 tags:
   - cybersecurity
   - email-spoofing

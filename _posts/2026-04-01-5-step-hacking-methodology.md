@@ -1,7 +1,9 @@
 ---
 title: "Inside a Hacker’s Mind: The 5-Step Attack Process"
 date: 2026-04-01 
-categories: [awareness]
+categories: 
+    - awareness
+    - tactics
 tags:
   - cybersecurity
   - ethical-hacking

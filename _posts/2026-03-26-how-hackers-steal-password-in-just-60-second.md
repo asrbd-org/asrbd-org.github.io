@@ -1,7 +1,9 @@
 ---
 title: "How Hackers Can Steal Your Password in 60 Seconds"
 date: 2026-03-26
-categories: [awareness]
+categories: 
+    - awareness
+    - tactics
 tags:
   - cybersecurity
   - awareness

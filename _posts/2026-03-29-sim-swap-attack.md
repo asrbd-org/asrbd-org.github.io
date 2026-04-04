@@ -1,7 +1,9 @@
 ---
 title: "SIM Swap Attacks: Don’t Let Hackers Steal Your Phone Number"
 date: 2026-03-29
-categories: [awareness]
+categories: 
+    - awareness
+    - tactics
 tags:
   - cybersecurity
   - sim-swap

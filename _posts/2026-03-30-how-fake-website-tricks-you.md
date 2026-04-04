@@ -1,7 +1,9 @@
 ---
 title: "Fake Websites & Domains: How Scammers Trick You"
 date: 2026-03-30
-categories: [awareness]
+categories: 
+    - awareness
+    - tactics
 tags:
   - cybersecurity
   - phishing
