@@ -1,6 +1,6 @@
 ---
 title: "Cyber Hygiene for Your Business: A Simple Checklist"
-date: 2026-04-05 14:00:00
+date: 2026-04-05
 categories: 
     - awareness
     - defense

@@ -1,6 +1,6 @@
 ---
 title: "2FA vs SMS: Use Authenticator Apps Instead"
-date: 2026-04-03 10:00:00
+date: 2026-04-03
 categories: 
     - awareness
     - defense
