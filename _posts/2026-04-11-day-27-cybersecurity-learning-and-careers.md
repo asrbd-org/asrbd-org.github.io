@@ -73,4 +73,4 @@ Recommended free platforms:
 
 Cybersecurity is not just a profession—it is a responsibility to protect the digital world.
 
-Stay connected with **ASRBD** for more cybersecurity awareness and career guidance.
+Stay connected with [ASRBD](https://asrbd.medium.com/) for more cybersecurity awareness and career guidance.
