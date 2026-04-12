@@ -1,7 +1,7 @@
 ---
 title: "The $81 Million Mistake: Bangladesh Bank Heist Explained"
 date: 2026-04-09
-categories: [awareness, case-study, authority]
+categories: [awareness, case-study, authority, bangladesh]
 tags: [Bangladesh Bank Heist, Cyber Attack, Hacking, Awareness, ASRBD]
 image: /assets/img/article-img/day-22.png
 ---
