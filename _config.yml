@@ -11,7 +11,7 @@ tagline: Cyber Security Bangladesh
 description: ASRBD (Advanced Security Researchers Bangladesh) is a non-profit organization promoting cybersecurity awareness, ethical hacking education, and digital safety across Bangladesh.
 
 # Site URL
-url: "https://asrbd-org.github.io"
+url: "https://asrbd.vercel.app"
 baseurl: ""
 
 # Plugins
