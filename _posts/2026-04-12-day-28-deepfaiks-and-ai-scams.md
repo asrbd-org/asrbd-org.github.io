@@ -1,19 +1,16 @@
 ---
-
 title: "Day 28 - Emerging Threats: Deepfakes & AI Scams"
 date: 2026-04-12
 categories: [awareness]
 tags:
-
-* cybersecurity
-* deepfake
-* ai-security
-* scam-awareness
-* digital-safety
-* social-engineering
-* asrbd
-  image: /assets/img/30-day-post/28-day-16x9.png
-
+  - cybersecurity
+  - deepfake
+  - ai-security
+  - scam-awareness
+  - digital-safety
+  - social-engineering
+  - asrbd
+image: /assets/img/30-day-post/28-day-16x9.png
 ---
 
 # Emerging Threats — Deepfakes & AI Scams
