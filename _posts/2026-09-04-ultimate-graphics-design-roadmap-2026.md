@@ -15,7 +15,7 @@ tags:
 - ai-tools
 - portfolio
 - freelance-career
-  image: /assets/img/ultimate-graphic-design-roadmap-2026.png
+  image: /assets/img/ultimate-graphic-design-roadmap-2026.jpg
   toc: true
   pin: true
 
