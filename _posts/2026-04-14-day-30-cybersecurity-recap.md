@@ -13,7 +13,7 @@ tags:
   - ransomware
   - ai-security
   - asrbd
-image: /assets/img/30-day-post/30-day-16x9.png
+image: /assets/img/30-day-post/30-day-16x9.jpeg
 description: "A complete recap of ASRBD’s 30-day cybersecurity awareness campaign with long-term action steps to help individuals and communities stay secure online."
 ---
 
