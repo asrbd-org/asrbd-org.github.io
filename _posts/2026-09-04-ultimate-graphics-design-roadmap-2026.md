@@ -18,7 +18,6 @@ tags:
 
 image: /assets/img/ultimate-graphic-design-roadmap-2026.jpg
 toc: true
-pin: true
 
 ---
 
